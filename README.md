@@ -9,7 +9,7 @@ docker build -t ros-usbcam:melodic .
 ./run.sh
 ```
 
-# If it doesn't work
+# TroubleShooting
 
 `ls /dev/video*`
 
